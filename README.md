@@ -1,4 +1,5 @@
 # music-database-app
+This project is delicated for Database Management System course. Database is created using mysql workbench, and user interaction is achieved using the terminal. The app is developed purely in python.
 
 To run the application:
 
